@@ -1,0 +1,100 @@
+{
+  "source": "Novy Urengoy Airport - Russia",
+  "destination": "Sochi International Airport - Russia",
+  "routes": [
+    [
+      {
+        "source_airport": "Novy Urengoy Airport - Russia",
+        "destination_airport": "Koltsovo Airport - Russia",
+        "airline": "Aerocondor",
+        "distance": "1328.26",
+        "est_travel_time": "2.0 hours 9 minutes",
+        "path": [
+          [
+            76.52030181884766,
+            66.06939697265625
+          ],
+          [
+            60.802700042725,
+            56.743099212646
+          ]
+        ],
+        "flight_number": null
+      },
+      {
+        "source_airport": "Koltsovo Airport - Russia",
+        "destination_airport": "Sochi International Airport - Russia",
+        "airline": "Ural Airlines",
+        "distance": "2084.15",
+        "est_travel_time": "3.0 hours 5 minutes",
+        "path": [
+          [
+            60.802700042725,
+            56.743099212646
+          ],
+          [
+            39.9566,
+            43.449902
+          ]
+        ],
+        "flight_number": null
+      }
+    ],
+    [
+      {
+        "source_airport": "Novy Urengoy Airport - Russia",
+        "destination_airport": "Koltsovo Airport - Russia",
+        "airline": "Aerocondor",
+        "distance": "1328.26",
+        "est_travel_time": "2.0 hours 9 minutes",
+        "path": [
+          [
+            76.52030181884766,
+            66.06939697265625
+          ],
+          [
+            60.802700042725,
+            56.743099212646
+          ]
+        ],
+        "flight_number": null
+      },
+      {
+        "source_airport": "Koltsovo Airport - Russia",
+        "destination_airport": "Kazan International Airport - Russia",
+        "airline": "Aerocondor",
+        "distance": "725.97",
+        "est_travel_time": "1.0 hours 24 minutes",
+        "path": [
+          [
+            60.802700042725,
+            56.743099212646
+          ],
+          [
+            49.278701782227,
+            55.606201171875
+          ]
+        ],
+        "flight_number": null
+      },
+      {
+        "source_airport": "Kazan International Airport - Russia",
+        "destination_airport": "Sochi International Airport - Russia",
+        "airline": "Aerocondor",
+        "distance": "1507.99",
+        "est_travel_time": "2.0 hours 22 minutes",
+        "path": [
+          [
+            49.278701782227,
+            55.606201171875
+          ],
+          [
+            39.9566,
+            43.449902
+          ]
+        ],
+        "flight_number": null
+      }
+    ]
+  ]
+}
